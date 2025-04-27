@@ -68,6 +68,75 @@
 
 ---
 
+## 🌍 Sustainable Development Goals (SDG) Contribution by Moorgan
+
+### 🎯 SDG 2 - Zero Hunger (Main Focus / SDG Chosen for Competition)
+
+**End hunger, achieve food security, improve nutrition, and promote sustainable agriculture.**
+
+Moorgan addresses SDG 2 directly by revolutionizing the livestock farming sector through:
+
+- 🧠 **Early Detection of Livestock Diseases**  
+  Moorgan's real-time monitoring and AI anomaly detection reduce mortality rates and improve livestock productivity, ensuring a more reliable food supply.
+
+- 📈 **Improving Farm Efficiency**  
+  By providing farmers with actionable insights, Moorgan optimizes health management, breeding, and nutrition, resulting in better livestock yields.
+
+- 🧑‍🌾 **Empowering Farmers with Technology**  
+  Moorgan democratizes access to smart farming tools, enabling smallholder farmers in rural areas to compete and survive in the modern agricultural economy.
+
+> "Healthier livestock = Higher food production = Stronger food security."
+
+---
+
+### 🌐 Other SDGs Supported by Moorgan
+
+#### 🏥 SDG 3 - Good Health and Well-Being
+
+- **Enhancing Animal Welfare**  
+  Through real-time monitoring and prompt intervention, Moorgan improves the living conditions and health standards of livestock, aligning with better veterinary practices.
+
+- **Preventing Zoonotic Diseases**  
+  Early detection of livestock illness helps in preventing the spread of zoonotic diseases, thereby indirectly protecting human health.
+
+---
+
+#### 🏭 SDG 9 - Industry, Innovation, and Infrastructure
+
+- **Promoting Agricultural Innovation**  
+  By integrating IoT, AI, and cloud technologies into traditional farming, Moorgan brings advanced digital infrastructure to the livestock industry.
+
+- **Building Smart Farming Ecosystems**  
+  Moorgan contributes to the modernization of rural agriculture, laying the groundwork for smart, data-driven farming practices.
+
+---
+
+#### 🌱 SDG 12 - Responsible Consumption and Production
+
+- **Optimizing Resource Use**  
+  With predictive analytics and precision farming insights, Moorgan minimizes waste in livestock management, promoting efficient and sustainable consumption of feed, water, and medical resources.
+
+- **Enhancing Traceability and Transparency**  
+  Full tracking of animal health histories enhances accountability in livestock production chains.
+
+---
+
+### 📚 Summary Table
+
+| SDG | Contribution | Image |
+|-----|--------------|-------|
+| **Main SDG 2** | Ensuring sustainable livestock production and improving food security. | <img alt="SDG" title="SDG" src="./Images/SDG-Logo/2.png" width="200px"> |
+| **SDG 3** | Improving animal welfare and preventing disease outbreaks. | <img alt="SDG" title="SDG" src="./Images/SDG-Logo/3.png" width="200px"> |
+| **SDG 9** | Driving technological innovation in farming communities. | <img alt="SDG" title="SDG" src="./Images/SDG-Logo/9.png" width="200px"> |
+| **SDG 12** | Promoting sustainable and efficient livestock farming practices. | <img alt="SDG" title="SDG" src="./Images/SDG-Logo/12.png" width="200px"> |
+
+
+
+> **Moorgan isn't just a tool — it's a step towards smarter, fairer, and more sustainable agriculture for the world.** 🌎🐮
+
+
+---
+
 ## 🛠️ Technology Stack
 - **Frontend**: Vite, TypeScript, TailwindCSS, and ShadcnUI
 - **Backend**: Express.js & Node.js
