@@ -1,0 +1,12 @@
+[submodule "Moorgan-Frontend"]
+	path = Moorgan-Frontend
+	url = https://github.com/StyNW7/Moorgan-Frontend.git
+[submodule "Moorgan-Backend"]
+	path = Moorgan-Backend
+	url = https://github.com/StyNW7/Moorgan-Backend.git
+[submodule "Moorgan-ai"]
+	path = Moorgan-ai
+	url = https://github.com/StyNW7/Moorgan-ai
+[submodule "Moorgan-IoT"]
+	path = Moorgan-IoT
+	url = https://github.com/StyNW7/Moorgan-IoT.git
